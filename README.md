@@ -1,5 +1,5 @@
 # Roger-The-Pong-Player
-* Please request access to view project since project contains code from a University class that is not allowed to be public
+* Please request access to view project since project contains code from a University class that is not allowed to be public by University policy
 
 CS 403: Introduction To Robotics Project
 - Programmed in C a GUI autonomous interaction of two identical robot players called Roger playing ping pong, where Roger detects, chases, and punches the ball to win points when the ball hits the back end of the opposing Roger's field
