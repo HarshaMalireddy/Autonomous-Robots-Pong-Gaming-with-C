@@ -1,6 +1,6 @@
 # Autonomus Robots Gaming GUI Simulator In C
 
-Game Development
+Robotics
 
 - A semester long project built in my college Robotics class.
 - Programmed in C a GUI autonomous interaction of two identical robot players called Roger playing ping pong, where Roger detects, chases, and punches the ball to win points when the ball hits the back end of the opposing Roger's field
