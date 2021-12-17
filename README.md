@@ -1,4 +1,4 @@
-# Autonomous Robots Gaming Simulator with C
+# Autonomous Robots Pong Gaming with C
 
 Robotics
 
